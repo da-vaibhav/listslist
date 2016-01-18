@@ -48,4 +48,5 @@ list of the stuff on github and elsewhere that I want to keep track of
 * https://github.com/open-source-society/computer-science
 * https://github.com/ltebean/sticky-header
 * https://github.com/ericelliott/essential-javascript-links
+* https://github.com/hemanth/algorithms-es6
 * 
