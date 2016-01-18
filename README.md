@@ -35,4 +35,11 @@ list of the stuff on github and elsewhere that I want to keep track of
 * https://github.com/hackerkid/Mind-Expanding-Books
 * https://github.com/HubSpot/pace
 * https://github.com/dimsemenov/PhotoSwipe
+* https://github.com/ireade/tictactoe
+* https://github.com/box/t3js
+* https://github.com/sindresorhus/amas
+* https://github.com/silviopaganini/maths
+* https://github.com/tjmehta/101
+* https://github.com/sindresorhus/awesome-scifi
+* https://github.com/jlevy/the-art-of-command-line
 * 
