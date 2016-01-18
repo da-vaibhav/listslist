@@ -31,4 +31,8 @@ list of the stuff on github and elsewhere that I want to keep track of
 * https://github.com/bevacqua/rome
 * https://github.com/bevacqua/horsey
 * https://github.com/impress/impress.js
+* https://github.com/bevacqua/dominus
+* https://github.com/hackerkid/Mind-Expanding-Books
+* https://github.com/HubSpot/pace
+* https://github.com/dimsemenov/PhotoSwipe
 * 
