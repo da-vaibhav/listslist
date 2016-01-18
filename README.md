@@ -42,4 +42,10 @@ list of the stuff on github and elsewhere that I want to keep track of
 * https://github.com/tjmehta/101
 * https://github.com/sindresorhus/awesome-scifi
 * https://github.com/jlevy/the-art-of-command-line
+* https://github.com/Jam3/touch-scroll-physics
+* https://github.com/javve/list.js
+* https://github.com/mathiasbynens/jquery-details
+* https://github.com/open-source-society/computer-science
+* https://github.com/ltebean/sticky-header
+* https://github.com/ericelliott/essential-javascript-links
 * 
