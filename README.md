@@ -13,4 +13,12 @@ list of the stuff on github and elsewhere that I want to keep track of
 * https://github.com/jeromeetienne/microevent.js
 * https://github.com/jaredreich/notie.js
 * https://github.com/Microsoft/nodejs-guidelines
+* https://github.com/zenorocha/good-listener
+* https://github.com/airportyh/word-count
+* https://github.com/FrontendMasters/front-end-handbook
+* https://github.com/zenorocha/clipboard.js
+* https://github.com/madrobby/microjs.com
+* https://github.com/dwyl/learn-api-design
+* https://github.com/cferdinandi/tabby
+* https://github.com/peduarte/wallop
 * 
