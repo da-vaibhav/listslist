@@ -50,3 +50,4 @@ list of the stuff(projects/repositories) on github and elsewhere that I want to 
 * https://github.com/ericelliott/essential-javascript-links
 * https://github.com/hemanth/algorithms-es6
 * atomic https://github.com/toddmotto/atomic
+* redux https://github.com/rackt/redux
