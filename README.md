@@ -51,3 +51,4 @@ list of the stuff(projects/repositories) on github and elsewhere that I want to 
 * https://github.com/hemanth/algorithms-es6
 * atomic https://github.com/toddmotto/atomic
 * redux https://github.com/rackt/redux
+* JavaScript image viewer https://github.com/fengyuanchen/viewerjs
