@@ -1,5 +1,5 @@
 # listslist
-list of the stuff(projects/repositories) on github and elsewhere that I want to keep track of
+list of the stuff (projects/repositories) on github and elsewhere that I want to keep track of and learn about
 
 * awesome-app-ideas https://github.com/tastejs/awesome-app-ideas
 * https://github.com/bevacqua/reads
