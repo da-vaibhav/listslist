@@ -53,3 +53,4 @@ list of the stuff (projects/repositories) on github and elsewhere that I want to
 * redux https://github.com/rackt/redux
 * JavaScript image viewer https://github.com/fengyuanchen/viewerjs
 * You-Dont-Need-Lodash-Underscore https://github.com/cht8687/You-Dont-Need-Lodash-Underscore
+* dropzone https://github.com/enyo/dropzone
